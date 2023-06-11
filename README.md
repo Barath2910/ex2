@@ -217,5 +217,7 @@ footer {
 ## OUTPUT:
 ![output](01.png)
 
+## RESULT:
+Thus a commercial website using HTML & CSS has been created and output verified sucessfully
 
 
